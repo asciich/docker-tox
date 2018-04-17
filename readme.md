@@ -1,4 +1,3 @@
 # tox container
 
-Container to test python packages using tox.
-
+Container to test Python packages using tox.
